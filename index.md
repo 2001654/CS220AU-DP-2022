@@ -4,6 +4,8 @@ Use [Markdown language](https://guides.github.com/features/mastering-markdown/) 
 
 This is what I am adding now...
 
+And then I looked into digital identities and found this and that.
+
 ## Hyperlinks
 [This](dp-checklist.md) is an internal link to another page on your site. 
 
