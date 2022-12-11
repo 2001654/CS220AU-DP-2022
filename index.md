@@ -1,8 +1,6 @@
 # Digital Identities and the existential risks that exist 
 
-Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
-
-This is what I am adding now...
+In this website I will explore the types of digital identities that exist in the world as well as investigate the existential risks that are posed by our identities online. Furthermore, I will give an introduction to what digital identites we have, discuss what I have found out about our safety online.
 
 And then I looked into digital identities and found this and that.
 
