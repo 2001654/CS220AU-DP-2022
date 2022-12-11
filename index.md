@@ -1,9 +1,10 @@
 # Digital Identities and the existential risks that exist 
 
-In this website I will explore the types of digital identities that exist in the world as well as investigate the existential risks that are posed by our identities online. Furthermore, I will give an introduction to what digital identites we have, discuss what I have found out about our safety online.
+In this website I will explore the types of digital identities that exist in the world as well as investigate the existential risks that are posed by our identities online. Furthermore, I will give an introduction to what digital identites are and  discuss what I have found out about our safety online.
 
-And then I looked into digital identities and found this and that.
+## What are digital identities? 
 
+Digital identities are an individual's online personas. They serve to represent an individual's online presence and may be used to verify an individual's identification when logging into online accounts or doing online transactions. Digital identities can include details like a person's name, date of birth, and contact information and are frequently connected to certain devices, such a computer or smartphone. To provide further security and fraud protection, a digital identity may occasionally be validated by a third party, such as a government agency or financial institution.
 ## Hyperlinks
 [This](dp-checklist.md) is an internal link to another page on your site. 
 
