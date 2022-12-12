@@ -8,13 +8,18 @@ Digital identities are an individual's online personas. They serve to represent 
 
 ## Types of digital identity 
 
-### Social Media Accounts - 
+* Social Media Accounts - Users can register for an account on several social media platforms and use it to identify themselves online. These accounts typically have a username or handle in addition to other private data that can be used to confirm the user's identity. 
+
+* Biometric Data - Biometric information describes a person's distinctive physical traits, such as their fingerprints or iris patterns. These can be used to establish a digital identity that is challenging to mimic or forge. 
+
+* Single sign-on (SSO) accounts - Users that have SSO accounts can sign in to numerous services or websites with just one set of credentials. Users may find it easier to maintain their digital identities as a result because they only need to remember one set of login details.
+
 
 ## How digital identities can cause existential risks 
 
 Existential risks are risks that have the ability to substantially or completely destroy humanity to a point where it is irreparable. During my research I have come to the conclusion that there is not necessarily a direct link between digital identities and such risks, but rather a potential link between how digital identities are used and a threat against humanity. Within this section, I will identify the links between the risks I have identified and discuss how the existence of digital identities can be threatened by them. 
 
-### Artificial Intelligence 
+#### Artificial Intelligence 
 
 
 
