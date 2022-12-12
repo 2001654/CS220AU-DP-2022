@@ -33,6 +33,12 @@ Existential risks are risks that have the ability to substantially or completely
 
 #### Artificial Intelligence 
 
+Artificial intelligence (AI) is the simulation of human intelligence in devices created to act and think like people. Although AI has a lot of potential benefits, it could also pose an existential threat to digital identity in some situations. For instance, a competent AI system with access to a person's wealth of personal data may be able to create digital identities that are almost identical to the real person, making it difficult for others to spot fraud and put a stop to it. Additionally, the application of AI to marketing could produce more individualized and focused advertisements, raising concerns about privacy and the improper use of user data. 
+
+#### Centralization of Digital Identities 
+
+In many ways, the centralization of digital identities, in which all or most are under the control of a single individual or group, could pose an existential threat. First, if the central authority in charge of managing digital identities were to become corrupted or evil, it might have access to a great amount of personal data about people. It might be used for criminal activities like identity theft or other types of fraud. Furthermore, all of the digital identities that the central authority manages could perhaps be lost or rendered inaccessible if it were to experience a catastrophic collapse or come under cyberattack. For people and organizations that depend on such digital identities, this might have serious repercussions.
+
 
 
 
