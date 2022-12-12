@@ -4,10 +4,17 @@ In this website I will explore the types of digital identities that exist in the
 
 ## What are digital identities? 
 
-Digital identities are an individual's online personas. They serve to represent an individual's online presence and may be used to verify an individual's identification when logging into online accounts or doing online transactions. Digital identities can include details like a person's name, date of birth, and contact information and are frequently connected to certain devices, such a computer or smartphone. To provide further security and fraud protection, a digital identity may occasionally be validated by a third party, such as a government agency or financial institution.
+Digital identities are an individual's online personas. They serve to represent an individual's online presence and may be used to verify an individual's identification when logging into online accounts or doing online transactions. Digital identities can include details like a person's name, date of birth, and contact information and are frequently connected to certain devices, such a computer or smartphone. To provide further security and fraud protection, a digital identity may occasionally be validated by a third party, such as a government agency or financial institution. Moreover, below I will be listing some of the main forms of digital identity which are seen most frequently. 
 
-## How digital identities can cause external risks 
+## Types of digital identity 
 
+### Social Media Accounts - 
+
+## How digital identities can cause existential risks 
+
+Existential risks are risks that have the ability to substantially or completely destroy humanity to a point where it is irreparable. During my research I have come to the conclusion that there is not necessarily a direct link between digital identities and such risks, but rather a potential link between how digital identities are used and a threat against humanity. Within this section, I will identify the links between the risks I have identified and discuss how the existence of digital identities can be threatened by them. 
+
+### Artificial Intelligence 
 
 
 
