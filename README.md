@@ -26,7 +26,11 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
-- 2022-11-22 met Krisztian and discussed the assignment
+- 2022-11-22 met Krisztian and discussed the assignment 
+- 2022-12-10 compiled notes about different digital identities 
+- 2022-12-10 Summarised my findings about the existential risks which I will be discussing in my website 
+- 2022-12-12 Began to transfer my research into the index.md file 
+- 2022-12-12 created headings for my website and began to import pictures 
 
 <br>
 
@@ -38,4 +42,17 @@ How to use this GitHub repository as a template for your submission, including h
 - start finetuning a potential research question by using a physical notebook and a pen
 - start using the index.md file to summarise my notes
 
-### by the end of week 9
+### by the end of week 9 
+- further explore the potential research questions 
+- expand my knowledge of digital identities to enable the process of linking them with existential risks 
+- begin to summarise my findings on the index.md file 
+
+### by the end of week 10 
+-continue to research the theme in order to gain a better understanding 
+-start to consider whether I should develop my site into multiple external pages 
+-familiarise myself with markdown syntax to improve my ability to create the site 
+
+### by the end of week 11 
+-attempt to finish the full layout of my site 
+
+
