@@ -48,11 +48,11 @@ How to use this GitHub repository as a template for your submission, including h
 - begin to summarise my findings on the index.md file 
 
 ### by the end of week 10 
--continue to research the theme in order to gain a better understanding 
--start to consider whether I should develop my site into multiple external pages 
--familiarise myself with markdown syntax to improve my ability to create the site 
+- continue to research the theme in order to gain a better understanding 
+- start to consider whether I should develop my site into multiple external pages 
+- familiarise myself with markdown syntax to improve my ability to create the site 
 
 ### by the end of week 11 
--attempt to finish the full layout of my site 
+- attempt to finish the full layout of my site 
 
 
