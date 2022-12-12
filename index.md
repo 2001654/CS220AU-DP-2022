@@ -8,11 +8,15 @@ Digital identities are an individual's online personas. They serve to represent 
 
 ## Types of digital identity 
 
-* Social Media Accounts - Users can register for an account on several social media platforms and use it to identify themselves online. These accounts typically have a username or handle in addition to other private data that can be used to confirm the user's identity. 
+* Social Media Accounts: Users can register for an account on several social media platforms and use it to identify themselves online. These accounts typically have a username or handle in addition to other private data that can be used to confirm the user's identity. 
 
-* Biometric Data - Biometric information describes a person's distinctive physical traits, such as their fingerprints or iris patterns. These can be used to establish a digital identity that is challenging to mimic or forge. 
+* Biometric Data: Biometric information describes a person's distinctive physical traits, such as their fingerprints or iris patterns. These can be used to establish a digital identity that is challenging to mimic or forge. 
 
-* Single sign-on (SSO) accounts - Users that have SSO accounts can sign in to numerous services or websites with just one set of credentials. Users may find it easier to maintain their digital identities as a result because they only need to remember one set of login details.
+* Single sign-on (SSO) accounts: Users that have SSO accounts can sign in to numerous services or websites with just one set of credentials. Users may find it easier to maintain their digital identities as a result because they only need to remember one set of login details. 
+
+* Cryptographic keys: Cryptographic keys are mathematical values that are used to encrypt and decrypt data. They can also be used to create digital signatures, which can be used to verify the identity of the person or entity using the key 
+
+* Government-issued IDs: In some cases, government-issued IDs such as driver's licenses or passport numbers can be used as digital identities. These can be used to verify the user's identity for various purposes, such as voting or accessing government services online.
 
 
 ## How digital identities can cause existential risks 
