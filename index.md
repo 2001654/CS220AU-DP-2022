@@ -1,3 +1,11 @@
+
+
+
+
+![image](https://user-images.githubusercontent.com/116571131/207072968-a1f8ccd0-ba92-4544-8715-e09cdc00fa72.png)
+
+
+
 # Digital Identities and the existential risks that exist 
 
 In this website I will explore the types of digital identities that exist in the world as well as investigate the existential risks that are posed by our identities online. Furthermore, I will give an introduction to what digital identites are and  discuss what I have found out about our safety online.
@@ -21,9 +29,10 @@ Digital identities are an individual's online personas. They serve to represent 
 
 ## How digital identities can cause existential risks 
 
-Existential risks are risks that have the ability to substantially or completely destroy humanity to a point where it is irreparable. During my research I have come to the conclusion that there is not necessarily a direct link between digital identities and such risks, but rather a potential link between how digital identities are used and a threat against humanity. Within this section, I will identify the links between the risks I have identified and discuss how the existence of digital identities can be threatened by them. 
+Existential risks are risks that have the ability to substantially or completely destroy humanity to a point where it is irreparable. During my research I have come to the realization that there is not necessarily a direct link between digital identities and such risks, but rather a potential link between how digital identities are used and how they can lead to a threat against humanity. Within this section, I will identify the links between the risks I have identified and discuss how the existence of digital identities can be threatened by them. 
 
 #### Artificial Intelligence 
+
 
 
 
@@ -52,5 +61,7 @@ Below you see an example of embedding an image that is found in another reposito
 ## More examples
 
 Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
+
+##
 
 
