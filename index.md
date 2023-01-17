@@ -53,12 +53,17 @@ With the use of the Visitor and Resident (V&R) mapping, It has enabled me to vie
 
 The V&R map has been an effective way of seeing my engagement with the web and has helped me to understand how my digital identity looks, and how I could make changes to obtain a greater and more positive digital identity. 
 
-My past digital identity can be broken down using my own personal V&R map, which I have constructed according to the criteria. (See Below)
+My past digital identity can be broken down using my own personal V&R map, which I have constructed according to the criteria. (See Below) 
+
+![past map](https://user-images.githubusercontent.com/116571131/213008609-96fa9886-8186-429b-865a-166afed9dba3.jpg)
 
 
 ## My Future Digital Identity 
 
-From looking at my own personal V&R map, I have reflected on what I could do to enhance my digital identity. My excessive use of social media and sources of entertainment is a clear weakness to me, as it is unproductive and time-consuming. With this analysis of my past and/or current digital identity, I have developed a V&R map which I plan to look more like this. (See Below)
+From looking at my own personal V&R map, I have reflected on what I could do to enhance my digital identity. My excessive use of social media and sources of entertainment is a clear weakness to me, as it is unproductive and time-consuming. With this analysis of my past and/or current digital identity, I have developed a V&R map which I plan to look more like this. (See Below) 
+
+
+![future map](https://user-images.githubusercontent.com/116571131/213008886-ecb3a1b0-77c9-4707-88e4-77951b47af16.jpg)
 
 
 
