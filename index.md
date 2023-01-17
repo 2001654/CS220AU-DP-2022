@@ -66,6 +66,14 @@ From looking at my own personal V&R map, I have reflected on what I could do to 
 ![future map](https://user-images.githubusercontent.com/116571131/213008886-ecb3a1b0-77c9-4707-88e4-77951b47af16.jpg)
 
 
+References 
+
+RecFaces. 2020. “Digital Identity in 2021: Everything You Need to Know.” RecFaces. RecFaces. November 11, 2020. https://recfaces.com/articles/digital-identity.
+
+“Visitors & Residents.” 2014. David White. September 9, 2014. https://daveowhite.com/vandr/.
+
+
+
 
 
 
