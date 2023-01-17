@@ -8,11 +8,12 @@
 
 # Digital Identities and the existential risks that exist 
 
-In this website I will explore the types of digital identities that exist in the world as well as investigate the existential risks that are posed by our identities online. Furthermore, I will give an introduction to what digital identites are and  discuss what I have found out about our safety online.
+In this writing I will explore the types of digital identities that exist in the world as well as investigate the existential risks that are posed by our identities online. Furthermore, I will give an introduction to what digital identites are and  discuss what I have found out about our safety online. 
+
 
 ## What are digital identities? 
 
-Digital identities are an individual's online personas. They serve to represent an individual's online presence and may be used to verify an individual's identification when logging into online accounts or doing online transactions. Digital identities can include details like a person's name, date of birth, and contact information and are frequently connected to certain devices, such a computer or smartphone. To provide further security and fraud protection, a digital identity may occasionally be validated by a third party, such as a government agency or financial institution. Moreover, below I will be listing some of the main forms of digital identity which are seen most frequently. 
+In order acknowledge our own digital identities, we must first understand what are. Digital identities are an individual's online persona. They serve to represent an individual's online presence and may be used to verify an individual's identification when logging into online accounts or doing online transactions. Digital identities can include details like a person's name, date of birth, and contact information and are frequently connected to certain devices, such a computer or smartphone. To provide further security and fraud protection, a digital identity may occasionally be validated by a third party, such as a government agency or financial institution. Moreover, below I will be listing some of the main forms of digital identity which are seen most frequently. 
 
 ## Types of digital identity 
 
@@ -37,9 +38,27 @@ Artificial intelligence (AI) is the simulation of human intelligence in devices 
 
 #### Centralization of Digital Identities 
 
-In many ways, the centralization of digital identities, in which all or most are under the control of a single individual or group, could pose an existential threat. First, if the central authority in charge of managing digital identities were to become corrupted or evil, it might have access to a great amount of personal data about people. It might be used for criminal activities like identity theft or other types of fraud. Furthermore, all of the digital identities that the central authority manages could perhaps be lost or rendered inaccessible if it were to experience a catastrophic collapse or come under cyberattack. For people and organizations that depend on such digital identities, this might have serious repercussions.
+In many ways, the centralization of digital identities, in which all or most are under the control of a single individual or group, could pose an existential threat. First, if the central authority in charge of managing digital identities were to become corrupted or evil, it might have access to a great amount of personal data about people. It might be used for criminal activities like identity theft or other types of fraud. Furthermore, all of the digital identities that the central authority manages could perhaps be lost or rendered inaccessible if it were to experience a catastrophic collapse or come under cyberattack. For people and organizations that depend on such digital identities, this might have serious repercussions. 
 
 
+# Visitor and Resident Mapping
+
+In my research in exploring digital identities, I have used the concept of David White's Et al's Visitor and Resident (V&R) mapping to understand digital engagement in a wider context, as well as in relation to my own. The V&R map breaks our engagagement online into two modes, Visitor and Resident. Visitor mode is where 'individuals decide on the task they wish to undertake' (White 2014) such as Youtube or Google. Resident mode is a mode that is 'about social presence, where 'the individual is going online to connect to, or to be with, other people.' (White 2014). Furthermore, the V&R map breaks digital identites into two more aspects, whether they are institutional or personal. Institutional includes academic websites, such as moodle or a company website, whereas personal includes websites that are interesting to a someone on a personal level, such as blogs or looking at pages for enjoyment. The difference between these two levels is important in recognising the alternate aspects of digital identity, as there is a clear speration of someones's personal and proffesional activity. 
+
+Looking at the different modes that digital identity has been broken down into, I have begun to understand the importance of how my role as a visitor or a resident have constructed my own digital identity. For example, a social media post that I shared a few years ago could pose a threat to how my identity is portrayed online, whether it is a simple mistake or a controversial opinion, every thing which people share online can be seen as being harmful or incorrect, thus causing the effect of hindering our presence online. With these thoughts, I believe it is extremely important to consider both past and present digital identites, as they will continue to exist in a world where technology is ever present. 
+
+## My Past Digital Identity 
+
+With the use of the Visitor and Resident (V&R) mapping, It has enabled me to view my personal engagement with the online world. The majority of my visitor activity includes research for essays on search engines such as Google, watching YouTube videos for entertainment, and WhatsApp for contacting colleagues and fellow students. However, my resident activity primary includes Snapchat, Instagram and Spotify.
+
+The V&R map has been an effective way of seeing my engagement with the web and has helped me to understand how my digital identity looks, and how I could make changes to obtain a greater and more positive digital identity. 
+
+My past digital identity can be broken down using my own personal V&R map, which I have constructed according to the criteria. (See Below)
+
+
+## My Future Digital Identity 
+
+From looking at my own personal V&R map, I have reflected on what I could do to enhance my digital identity. My excessive use of social media and sources of entertainment is a clear weakness to me, as it is unproductive and time-consuming. With this analysis of my past and/or current digital identity, I have developed a V&R map which I plan to look more like this. (See Below)
 
 
 
