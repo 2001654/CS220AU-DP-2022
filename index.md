@@ -3,7 +3,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/116571131/207072968-a1f8ccd0-ba92-4544-8715-e09cdc00fa72.png | width=1000)
-
+<img src="https://user-images.githubusercontent.com/116571131/207072968-a1f8ccd0-ba92-4544-8715-e09cdc00fa72.png" width="1000" height="673">
 
 
 # Digital Identities and the existential risks that exist 
