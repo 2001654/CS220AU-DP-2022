@@ -53,7 +53,7 @@ With the use of the Visitor and Resident (V&R) mapping, It has enabled me to vie
 
 The V&R map has been an effective way of seeing my engagement with the web and has helped me to understand how my digital identity looks, and how I could make changes to obtain a greater and more positive digital identity. 
 
-My past digital identity can be broken down using my own personal V&R map, which I have constructed according to the criteria. (See Below) 
+My past digital identity can be broken down using my own personal V&R map, which I have constructed according to the criteria. (see below) 
 
 
 ![resized past](https://user-images.githubusercontent.com/116571131/213180697-8938d48a-2e84-411c-9590-b7649450c1bd.jpg =800x600)
@@ -61,17 +61,17 @@ My past digital identity can be broken down using my own personal V&R map, which
 
 ## My Future Digital Identity 
 
-From looking at my own personal V&R map, I have reflected on what I could do to enhance my digital identity. My excessive use of social media and sources of entertainment is a clear weakness to me, as it is unproductive and time-consuming. With this analysis of my past and/or current digital identity, I have developed a V&R map which I plan to look more like this. (See Below) 
+From looking at my own personal V&R map, I have reflected on what I could do to enhance my digital identity. My excessive use of social media and sources of entertainment is a clear weakness to me, as it is unproductive and time-consuming. With this analysis of my past and/or current digital identity, I have developed a V&R map which I plan to look more like this. (see below) 
 
 
 ![resized future](https://user-images.githubusercontent.com/116571131/213180763-7bca8e64-98ba-40da-9ecc-a6fbeff4810b.jpg =800x600)
 
 
-References 
+## References 
 
 RecFaces. 2020. “Digital Identity in 2021: Everything You Need to Know.” RecFaces. RecFaces. November 11, 2020. https://recfaces.com/articles/digital-identity.
 
-“Visitors & Residents.” 2014. David White. September 9, 2014. https://daveowhite.com/vandr/.
+David White. 2014. “Visitors & Residents.” September 9, 2014. https://daveowhite.com/vandr/.
 
 
 
