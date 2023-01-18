@@ -2,7 +2,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/116571131/207072968-a1f8ccd0-ba92-4544-8715-e09cdc00fa72.png)
+![image](https://user-images.githubusercontent.com/116571131/207072968-a1f8ccd0-ba92-4544-8715-e09cdc00fa72.png =1010x673)
 
 
 
