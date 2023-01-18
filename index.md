@@ -1,8 +1,6 @@
 
 ![resized DI](https://user-images.githubusercontent.com/116571131/213196662-75be04f3-d219-4a4c-aee9-9d23b2fbd9e8.png)
 
-<img src=".https://user-images.githubusercontent.com/116571131/207072968-a1f8ccd0-ba92-4544-8715-e09cdc00fa72.png" width="1000" height="673">
-
 
 # Digital Identities and the existential risks that exist 
 
@@ -54,15 +52,15 @@ The V&R map has been an effective way of seeing my engagement with the web and h
 My past digital identity can be broken down using my own personal V&R map, which I have constructed according to the criteria. (see below) 
 
 
-![resized past](https://user-images.githubusercontent.com/116571131/213180697-8938d48a-2e84-411c-9590-b7649450c1bd.jpg =800x600)
-<img src=".https://user-images.githubusercontent.com/116571131/213180697-8938d48a-2e84-411c-9590-b7649450c1bd.jpg" width="800" height="600">
+![resized past](https://user-images.githubusercontent.com/116571131/213197107-0f16453f-9d7b-4fc8-a0d3-321af84fb70e.jpg)
+
 
 ## My Future Digital Identity 
 
 From looking at my own personal V&R map, I have reflected on what I could do to enhance my digital identity. My excessive use of social media and sources of entertainment is a clear weakness to me, as it is unproductive and time-consuming. With this analysis of my past and/or current digital identity, I have developed a V&R map which I plan to look more like this. (see below) 
 
 
-![resized future](https://user-images.githubusercontent.com/116571131/213180763-7bca8e64-98ba-40da-9ecc-a6fbeff4810b.jpg =800x600)
+![resized future](https://user-images.githubusercontent.com/116571131/213196994-9b3c491e-002f-4d9b-8769-aab247dd8afc.jpg)
 
 
 ## References 
