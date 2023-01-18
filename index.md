@@ -1,8 +1,5 @@
 
 
-
-
-![image](https://user-images.githubusercontent.com/116571131/207072968-a1f8ccd0-ba92-4544-8715-e09cdc00fa72.png | width=1000)
 <img src=."https://user-images.githubusercontent.com/116571131/207072968-a1f8ccd0-ba92-4544-8715-e09cdc00fa72.png" width="1000" height="673">
 
 
@@ -57,7 +54,7 @@ My past digital identity can be broken down using my own personal V&R map, which
 
 
 ![resized past](https://user-images.githubusercontent.com/116571131/213180697-8938d48a-2e84-411c-9590-b7649450c1bd.jpg =800x600)
-
+<img src=".https://user-images.githubusercontent.com/116571131/213180697-8938d48a-2e84-411c-9590-b7649450c1bd.jpg" width="800" height="600">
 
 ## My Future Digital Identity 
 
