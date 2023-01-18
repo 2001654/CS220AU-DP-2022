@@ -12,11 +12,14 @@ The URL of the website can be found in the sidebar, under 'About'. The homepage 
 <br>
 
 ## Portfolio items
-The portfolio you submit needs to contain the following:
+My portfolio contains the follow:
 
-1. **website** exploring the theme given.
+1. **website** exploring the theme of digital identities and the existential risks that can linked to them, including my past and future digital identites and the use of visitor and resident (V&R) mapping.
 2. **self-and peer-assessment** using the marking rubric in the `assessment.md` file.
-3. **portfolio overview** providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
+3. **portfolio overview** providing a succinct overview of my portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file. 
+
+## Peer-assesment 
+Due to difficulties with illness and absence, I have unfortunately been unable to complete any kind of peer-assesment with classmates, however I have provided a self-assesment to make up for this.
 
 
 <br>
