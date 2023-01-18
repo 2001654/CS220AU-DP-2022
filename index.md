@@ -55,7 +55,8 @@ The V&R map has been an effective way of seeing my engagement with the web and h
 
 My past digital identity can be broken down using my own personal V&R map, which I have constructed according to the criteria. (See Below) 
 
-![past map](https://user-images.githubusercontent.com/116571131/213008609-96fa9886-8186-429b-865a-166afed9dba3.jpg)
+
+![past map](https://user-images.githubusercontent.com/116571131/213179904-fe628ccb-25d7-4ed4-a0f3-d8429d7759dc.jpg)
 
 
 ## My Future Digital Identity 
@@ -63,7 +64,7 @@ My past digital identity can be broken down using my own personal V&R map, which
 From looking at my own personal V&R map, I have reflected on what I could do to enhance my digital identity. My excessive use of social media and sources of entertainment is a clear weakness to me, as it is unproductive and time-consuming. With this analysis of my past and/or current digital identity, I have developed a V&R map which I plan to look more like this. (See Below) 
 
 
-![future map](https://user-images.githubusercontent.com/116571131/213008886-ecb3a1b0-77c9-4707-88e4-77951b47af16.jpg)
+![future map](https://user-images.githubusercontent.com/116571131/213179995-cc322a18-017b-48ec-be65-58d3ae21d282.jpg)
 
 
 References 
