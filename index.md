@@ -1,4 +1,5 @@
 
+![resized DI](https://user-images.githubusercontent.com/116571131/213196662-75be04f3-d219-4a4c-aee9-9d23b2fbd9e8.png)
 
 <img src=".https://user-images.githubusercontent.com/116571131/207072968-a1f8ccd0-ba92-4544-8715-e09cdc00fa72.png" width="1000" height="673">
 
